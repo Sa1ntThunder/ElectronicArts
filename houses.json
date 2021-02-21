@@ -48,6 +48,13 @@
             "price": 108000,
             "number": "38-L",
             "owner": "Denis"
+        },
+        {
+            "id": 8,
+            "street": "Lesy Ukrainky",
+            "price": 450000,
+            "number": "14-D",
+            "owner": "Daryna"
         }
     ]
 }
