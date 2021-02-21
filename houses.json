@@ -41,6 +41,13 @@
             "price": 102000,
             "number": "12-C",
             "owner": "Dima"
+        },
+        {
+            "id": 7,
+            "street": "Oleny Teligy",
+            "price": 108000,
+            "number": "38-L",
+            "owner": "Denis"
         }
     ]
 }
