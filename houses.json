@@ -13,6 +13,13 @@
             "price": 1632,
             "number": "4-A",
             "owner": "Daryna"
+        },
+        {
+            "id": 3,
+            "street": "Zoludeva",
+            "price": 60000,
+            "number": "9-D",
+            "owner": "Dima"
         }
     ]
 }
