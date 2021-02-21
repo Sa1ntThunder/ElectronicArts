@@ -3,14 +3,14 @@
         {
             "id": 1,
             "street": "Krechatik",
-            "price": 4000,
+            "price": 100000,
             "number": 65,
             "owner": "Denis"
         },
         {
             "id": 2,
             "street": "Korolova",
-            "price": 1632,
+            "price": 16320,
             "number": "4-A",
             "owner": "Daryna"
         },
@@ -20,6 +20,13 @@
             "price": 60000,
             "number": "9-D",
             "owner": "Dima"
+        },
+        {
+            "id": 4,
+            "street": "Vaclava Gavela",
+            "price": 90000,
+            "number": "36-B",
+            "owner": "Denis"
         }
     ]
 }
