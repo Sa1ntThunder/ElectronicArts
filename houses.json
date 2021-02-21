@@ -34,6 +34,13 @@
             "price": 96000,
             "number": 17,
             "owner": "Daryna"
+        },
+        {
+            "id": 6,
+            "street": "Shevchenka",
+            "price": 102000,
+            "number": "12-C",
+            "owner": "Dima"
         }
     ]
 }
