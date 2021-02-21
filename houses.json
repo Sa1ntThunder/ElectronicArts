@@ -6,6 +6,13 @@
             "price": 4000,
             "number": 65,
             "owner": "Denis"
+        },
+        {
+            "id": 2,
+            "street": "Korolova",
+            "price": 1632,
+            "number": "4-A",
+            "owner": "Daryna"
         }
     ]
 }
