@@ -27,6 +27,13 @@
             "price": 90000,
             "number": "36-B",
             "owner": "Denis"
+        },
+        {
+            "id": 5,
+            "street": "Bulgakova",
+            "price": 96000,
+            "number": 17,
+            "owner": "Daryna"
         }
     ]
 }
