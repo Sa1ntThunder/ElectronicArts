@@ -1,0 +1,11 @@
+{
+    "houses": [
+        {
+            "id": 1,
+            "street": "Krechatik",
+            "price": 4000,
+            "number": 65,
+            "owner": "Denis"
+        }
+    ]
+}
