@@ -29,7 +29,8 @@
             "street": "Vaclava Gavela",
             "price": 90000,
             "number": "36-B",
-            "owner": "Denis"
+            "owner": "Denis",
+            "img":"https://www.scandia-hus.co.uk/wp-content/uploads/Oakley-House-9-edit-e1610637384251-655x450.jpg"
         },
         {
             "id": 5,
