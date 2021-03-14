@@ -55,6 +55,15 @@
             "price": 450000,
             "number": "14-D",
             "owner": "Daryna"
+        },
+
+        {
+            "id": 9,
+            "street": "bulvar kolchova  ",
+            "price": 288666,
+            "number": "14-D",
+            "owner": "Yerzhan",
+            "img": "https://storage.googleapis.com/houses-photos/photos-resized/700x640/37290.jpg",
         }
     ]
 }
