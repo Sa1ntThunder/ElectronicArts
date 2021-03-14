@@ -21,7 +21,8 @@
             "street": "Zoludeva",
             "price": 60000,
             "number": "9-D",
-            "owner": "Dima"
+            "owner": "Dima",
+            "img": "https://wp-tid.zillowstatic.com/25/Traditional-style-suburban-home-shutterstock_398991412-823eff-1024x546.jpg"
         },
         {
             "id": 4,
@@ -65,7 +66,7 @@
             "price": 288666,
             "number": "14-D",
             "owner": "Yerzhan",
-            "img": "https://storage.googleapis.com/houses-photos/photos-resized/700x640/37290.jpg",
+            "img": "https://storage.googleapis.com/houses-photos/photos-resized/700x640/37290.jpg"
         }
     ]
 }
