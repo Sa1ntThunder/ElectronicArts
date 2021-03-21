@@ -37,21 +37,24 @@
             "street": "Bulgakova",
             "price": 96000,
             "number": 17,
-            "owner": "Daryna"
+            "owner": "Daryna",
+            "img": "https://www.topdom.info/img/beautiful-houses/102-b.jpg"
         },
         {
             "id": 6,
             "street": "Shevchenka",
             "price": 102000,
             "number": "12-C",
-            "owner": "Dima"
+            "owner": "Dima",
+            "img": "https://www.onduline.ru/blog/sites/default/files/field/image/foto-krasivyh-domov-i-kottedzhej-v-rossii-s.jpg"
         },
         {
             "id": 7,
             "street": "Oleny Teligy",
             "price": 108000,
             "number": "38-L",
-            "owner": "Denis"
+            "owner": "Denis",
+            "img": "http://yaustal.com/uploads/posts/2015-04/1428907866_00.jpg"
         },
         {
             "id": 8,
