@@ -78,6 +78,12 @@
             "name": "Dima",
             "password": "97311046",
             "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvdsomoMQHW5n708Xvkh0qkTJ9e7GQfU3VtA&usqp=CAU"
+        },
+        {
+            "id": 464747,
+            "name": "Denis",
+            "password": "1234",
+            "avatar": "https://pbs.twimg.com/profile_images/456780237498351616/M6Xla4dy_400x400.jpeg"
         }
     ]
 }
